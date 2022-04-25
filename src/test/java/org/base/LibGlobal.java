@@ -176,6 +176,8 @@ public class LibGlobal {
 	private void abc() {
 System.out.println("practice");
 	}
-	
+	private void bc() {
+
+	}
 
 }

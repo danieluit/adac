@@ -173,5 +173,9 @@ public class LibGlobal {
 		return data;
 
 	}
+	private void abc() {
+System.out.println("practice");
+	}
+	
 
 }

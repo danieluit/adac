@@ -183,6 +183,12 @@ System.out.println("practice");
 	private void meth() {
 System.out.println("lenevo");
 
+
 	}
+	
+	private void nwgit() {
+System.out.println("git");
+	}
+	
 
 }

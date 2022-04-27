@@ -173,7 +173,12 @@ public class LibGlobal {
 		return data;
 
 	}
-	
+
+	private void gittt() {
+		System.out.println("exmpl");
+
+
+			}
 	
 	
 	private void nwgit() {

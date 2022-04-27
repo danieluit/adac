@@ -180,5 +180,9 @@ System.out.println("practice");
 		System.out.println("8825");
 
 	}
+	private void meth() {
+System.out.println("lenevo");
+
+	}
 
 }

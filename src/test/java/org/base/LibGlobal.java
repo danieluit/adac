@@ -173,18 +173,8 @@ public class LibGlobal {
 		return data;
 
 	}
-	private void abc() {
-System.out.println("practice");
-	}
-	private void bc() {
-		System.out.println("8825");
-
-	}
-	private void meth() {
-System.out.println("lenevo");
-
-
-	}
+	
+	
 	
 	private void nwgit() {
 System.out.println("git");

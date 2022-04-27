@@ -180,5 +180,10 @@ public class LibGlobal {
 System.out.println("git");
 	}
 	
+	private void sdjh() {
+System.out.println("dshf");
+
+	}
+	
 
 }
